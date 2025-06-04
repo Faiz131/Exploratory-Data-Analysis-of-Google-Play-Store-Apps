@@ -57,9 +57,6 @@ This project includes several insightful visualizations:
 
 ---
 
-
----
-
 ##  Author
 
 **Faizul Shaik**  
